@@ -1,5 +1,5 @@
-class Task1 {
-    int EvenOddDigitsSum(int input1, String input2) {
+public class Task1 {
+    public int EvenOddDigitsSum(int input1, String input2) {
         int sum = 0;
         while (input1 > 0) {
             int d = input1 % 10;

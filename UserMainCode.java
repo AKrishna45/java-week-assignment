@@ -1,5 +1,3 @@
-import java.io.*; 
-import java.util.*;
 class UserMainCode
 {
     public long nthFibonacci(int input1){

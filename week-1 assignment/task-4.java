@@ -1,4 +1,4 @@
-class UserMainCode 
+class task-4
 {
     public int addLastDigits(int input1, int input2) {
         if(input1 < 0)
